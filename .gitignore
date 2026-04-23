@@ -1,0 +1,13 @@
+# Maven /Java
+target/
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_store
+
+# Documents
+*.pdf
+*.docx
